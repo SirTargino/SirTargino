@@ -1,4 +1,4 @@
-Olá, mundo! Meu nome é João, e atualmente estou concluindo um curso técnico em programação de jogos digitais e estudando desenvolvimento web.
+Hello, world! My name is João Targino. I'm a Computer Science studant, and game developer. I'm studying to be a full stack developer.
 
   ##
 
