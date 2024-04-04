@@ -11,7 +11,6 @@ Hello World 🖖! My name is João. I'm 18 years old and I'm a computer science 
 ![](https://github-readme-stats.vercel.app/api?username=SirTargino&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SirTargino&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SirTargino&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://raw.githubusercontent.com/SirTargino/SirTargino/output/snake.svg" alt="Snake animation" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SirTargino&icon=0&color=1)](https://visitcount.itsvg.in)
