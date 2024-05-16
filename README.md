@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World 🖖! My name is João. I'm 18 years old and I'm a computer science student.<br><br>🎮- I am a technician in digital game programming (ECIT Bráulio Maia Júnior - 2023);<br>🚀- Full-stack development student (Programadores do Amanhã - 2024)<br><br>I'm looking for opportunities to take my skills to the next level!<br><br>🔭 I am currently working on <a href="https://github.com/Reconstrua"> Reconstrua</a>, a project developed during the Programadores do Ajante course<br>🌱 I’m currently learning Java, SPRING and React
+Hello World 🖖! My name is João. I'm 18 years old and I'm a computer science student.<br><br>🎮- I am a technician in digital game programming (ECIT Bráulio Maia Júnior - 2023);<br>🚀- Full-stack development student (Programadores do Amanhã - 2024)<br><br>I'm looking for opportunities to take my skills to the next level!<br><br>🔭 I am currently working on <a href="https://github.com/Reconstrua"> Reconstrua</a>, a project developed during the Programadores do Amanhã course<br>🌱 I’m currently learning Java, SPRING and React
 
 
 ## 🌐 Socials:
