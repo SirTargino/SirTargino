@@ -24,7 +24,7 @@
         <h3>❔O que estou fazendo:</h3>
         <ul>
           <li>Aprendendo Java <a href="https://github.com/SirTargino/Java---DIO">Meu repositório de estudos ☕</a>;</li>
-          <li>Trabalhando no projeto <a href="https://github.com/Reconstrua">Reconstrua 🏠</a>;</li>
+          <li>Trabalhando no projeto de E-Commerce: <a href="https://github.com/SirTargino/E-Commerce-Backend">Acesse o repositório</a>;</li>
           <li>Procurando por oportunidades profissionais 🔎</li>
         </ul>
       </div>
@@ -59,9 +59,6 @@
     src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=%232b5060"
     alt="">
   <img
-    src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=%232b5060"
-    alt="">
-  <img
     src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=%232b5060"
     alt="">
   <img
@@ -88,6 +85,9 @@
     src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=%232b5060"
     alt="">
   <img
+    src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=%232b5060"
+    alt="">
+  <img
     src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=%232b5060"
     alt="">
   <img
@@ -107,16 +107,17 @@
   <h3>😺GitHub stats:</h3>
   <img src="https://komarev.com/ghpvc/?username=SirTargino&style=for-the-badge" alt="">
   <div>
-    <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirTargino&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut"
-    alt="">
+        <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirTargino&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=donut"
+        alt="">
+
   </div>
   <div>
     <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=SirTargino&theme=dark&hide_border=false"
-        alt="">
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=SirTargino&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+    src="https://github-readme-stats.vercel.app/api?username=SirTargino&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false"
+    alt="">
+          <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=SirTargino&theme=blue_navy&hide_border=false"
         alt="">
   </div>
 </div>
