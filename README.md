@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 2em;"><b>João Targino 👨🏻‍💻</b></h1>
-  <p>Full-stack developer</p>
+  <p>Project Management Intern | Full-stack developer</p>
 </div>
 
 <hr>
@@ -23,9 +23,8 @@
       <div>
         <h3>❔O que estou fazendo:</h3>
         <ul>
-          <li>Aprendendo Java <a href="https://github.com/SirTargino/Java---DIO">Meu repositório de estudos ☕</a>;</li>
-          <li>Trabalhando no projeto de E-Commerce: <a href="https://github.com/SirTargino/E-Commerce-Backend">Acesse o repositório</a>;</li>
-          <li>Procurando por oportunidades profissionais 🔎</li>
+          <li>Estudando Python 🐍;</li>
+          <li>Adquirindo conhecimentos na área de dados 🎲;</li>
         </ul>
       </div>
     </td>
@@ -89,6 +88,9 @@
     alt="">
   <img
     src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=%232b5060"
+    alt="">
+  <img
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=%232b5060"
     alt="">
   <img
     src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white&color=%232b5060"
