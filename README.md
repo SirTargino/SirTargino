@@ -90,7 +90,7 @@
     src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=%232b5060"
     alt="">
   <img
-    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=%232b5060"
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=%232b5060"
     alt="">
   <img
     src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white&color=%232b5060"
