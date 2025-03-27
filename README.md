@@ -1,6 +1,6 @@
 <div align="center">
   <h3 style="font-size: 2em;"><b>João Targino 👨🏻‍💻</b></h3>
-  <p>Project Management Intern | Full-stack developer</p>
+  <p>Data Project Analyst | Full-stack developer</p>
 </div>
 
 <div id="badges" align="center">
@@ -14,7 +14,7 @@
 
 <div>
   <h3 style="font-size: 2em;"><b>About Me:</b></h3>
-  <p>•Currently, I am working as a data project management intern 🎲</p>
+  <p>•Currently, I am working as a data project analyst 🎲</p>
   <p>•I'm a Computer Science student at UFCG 💻</p>
   <p>•Ask me about JavaScript, Python or Agile Methodologies</p>
 </div>
